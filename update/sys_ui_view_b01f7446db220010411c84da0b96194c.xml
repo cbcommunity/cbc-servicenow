@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>carbonblack</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 03:18:51</sys_created_on>
+        <sys_id>b01f7446db220010411c84da0b96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CarbonBlack</sys_name>
+        <sys_package display_value="Carbon Black Cloud" source="x_366310_cbc">986d3006db220010411c84da0b96190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Carbon Black Cloud">986d3006db220010411c84da0b96190d</sys_scope>
+        <sys_update_name>sys_ui_view_b01f7446db220010411c84da0b96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 03:18:51</sys_updated_on>
+        <title>CarbonBlack</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

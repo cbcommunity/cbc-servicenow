@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Carbon Black Cloud" section_id="f854898adb220010411c84da0b9619b0" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_proc_application</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>4a997faadb220010411c84da0b96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_proc_sha256</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>ca997faadb220010411c84da0b96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>4e997faadb220010411c84da0b96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_take_action</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>ce997faadb220010411c84da0b96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_proc_signed_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>42997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>c2997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>46997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_hostname</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>c6997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_device_version</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>4a997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_device_policy</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>ca997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_proc_reputation</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>4e997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>ce997faadb220010411c84da0b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_internal_ip</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>42997faadb220010411c84da0b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_external_ip</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>c2997faadb220010411c84da0b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_last_contact</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>46997faadb220010411c84da0b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_366310_cbc_sensor_version</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-28 06:10:44</sys_created_on>
+            <sys_id>c6997faadb220010411c84da0b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Carbon Black Cloud" display_value="Carbon Black Cloud" name="incident" sys_domain="global" view="Default view">f854898adb220010411c84da0b9619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-28 06:10:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Carbon Black Cloud</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-26 03:41:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f854898adb220010411c84da0b9619b0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Carbon Black Cloud</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Carbon Black Cloud" source="x_366310_cbc">986d3006db220010411c84da0b96190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Carbon Black Cloud">986d3006db220010411c84da0b96190d</sys_scope>
+            <sys_update_name>sys_ui_section_f854898adb220010411c84da0b9619b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-26 03:42:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

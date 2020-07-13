@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="63" text_index="true" type="collection">
+        <element display="true" label="Policy Name" max_length="64" name="x_366310_cbc_policy_name" type="string"/>
+        <element label="Process ID" max_length="64" name="x_366310_cbc_process_id" type="string"/>
+        <element label="SHA256" max_length="64" name="x_366310_cbc_proc_sha256" type="string"/>
+        <element label="Device OS" max_length="10" name="x_366310_cbc_device_os" type="string"/>
+        <element label="Sensor Version" max_length="64" name="x_366310_cbc_sensor_version" type="string"/>
+        <element label="Last Contact" max_length="64" name="x_366310_cbc_last_contact" type="string"/>
+        <element label="Device Version" max_length="64" name="x_366310_cbc_device_version" type="string"/>
+        <element label="Policy ID" max_length="10" name="x_366310_cbc_policy_id" type="string"/>
+        <element label="Alert ID" max_length="10" name="x_366310_cbc_alert_id" type="string"/>
+        <element choice="1" label="Take Action" max_length="64" name="x_366310_cbc_take_action" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Ban Hash" value="ban_hash"/>
+                <element inactive_on_update="false" label="Isolate Host" sequence="1" value="isolate"/>
+                <element inactive_on_update="false" label="Unisolate Host" sequence="2" value="unisolate_host"/>
+                <element inactive_on_update="false" label="Move to Restrictive Policy" sequence="3" value="restrictive_policy"/>
+                <element inactive_on_update="false" label="Move to Default Policy" sequence="4" value="default_policy"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Device Hostname" max_length="40" name="x_366310_cbc_hostname" type="string"/>
+        <element label="Process GUID" max_length="64" name="x_366310_cbc_process_guid" type="string"/>
+        <element label="Application" max_length="64" name="x_366310_cbc_proc_application" type="string"/>
+        <element label="Event ID" max_length="64" name="x_366310_cbc_event_id" type="string"/>
+        <element label="External IP" max_length="15" name="x_366310_cbc_external_ip" type="ip_addr"/>
+        <element label="Internal IP" max_length="15" name="x_366310_cbc_internal_ip" type="ip_addr"/>
+        <element label="Reputation" max_length="64" name="x_366310_cbc_proc_reputation" type="string"/>
+        <element label="Signed By" max_length="120" name="x_366310_cbc_proc_signed_by" type="string"/>
+        <element label="Device ID" max_length="10" name="x_366310_cbc_device_id" type="string"/>
+    </element>
+</database>

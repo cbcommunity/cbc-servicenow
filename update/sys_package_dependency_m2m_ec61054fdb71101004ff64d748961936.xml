@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Incident" source="com.snc.incident">b90b461598f100107f2c2ed01a1f1664</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 19:26:56</sys_created_on>
+        <sys_id>ec61054fdb71101004ff64d748961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Carbon Black Cloud" source="x_366310_cbc">986d3006db220010411c84da0b96190d</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 19:26:56</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
